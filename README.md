@@ -5,13 +5,13 @@
 This project is an e-commerce REST API built using Node.js and Express. The API provides functionalities such as managing products, handling user authentication, processing orders, and managing shopping carts. The application uses MongoDB as its database and includes features such as JWT-based authentication, data validation, and error handling.
 Features
 
-<ul>
-    User Authentication: Sign up, log in, and secure routes with JWT.
-    Product Management: CRUD operations for products.
-    Order Management: Create and track orders.
-    Shopping Cart: Add, update, and remove items from the cart.
-    Category Management: Manage product categories.
-</ul>
+
+    -User Authentication: Sign up, log in, and secure routes with JWT.
+    -Product Management: CRUD operations for products.
+    -Order Management: Create and track orders.
+    -Shopping Cart: Add, update, and remove items from the cart.
+    -Category Management: Manage product categories.
+
 
 <h3>Installation</h3>
 
@@ -63,15 +63,15 @@ bash
 
 Usage
 
-    API Endpoints: Detailed documentation of available endpoints can be found in the docs directory.
-    Testing: Use tools like Postman or Insomnia to interact with the API.
+    -API Endpoints: Detailed documentation of available endpoints can be found in the docs directory.
+    -Testing: Use tools like Postman or Insomnia to interact with the API.
 
 <h3>Technologies Used</h3>
-<ul>
-    Node.js
-    Express.js
-    MongoDB
-    Mongoose
-    JWT for Authentication
-    Yarn for Package Management
-</ul>
+
+    -Node.js
+    -Express.js
+    -MongoDB
+    -Mongoose
+    -JWT for Authentication
+    -Yarn for Package Management
+
