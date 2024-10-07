@@ -1,4 +1,4 @@
-<h1>E-Commerce API</h1>
+<h1>E-Commerce API DocGen</h1>
 
 <h3>Description</h3>
 
